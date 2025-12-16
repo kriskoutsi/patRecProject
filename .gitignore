@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv
+env/
+venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints
+
+# Windows specific
+Thumbs.db
+Desktop.ini
